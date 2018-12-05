@@ -1,0 +1,26 @@
+{
+  "name": "react_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "10.14.0",
+    "npm": "6.4.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MChernetski/react_test.git"
+  },
+  "author": "MC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MChernetski/react_test/issues"
+  },
+  "homepage": "https://github.com/MChernetski/react_test#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
